@@ -1,0 +1,17 @@
+{
+  "sfURL": "https://lua221.us-east-1.snowflakecomputing.com/",
+  "sfAccount": "lua221",
+  "sfUser": "AST23232",
+  "sfPassword": "****",
+  "sfDatabase": "USER_ASUTOSH",
+  "sfSchema": "CURATED",
+  "sfRole": "SYSADMIN",
+  "airlineDataPath": "/opt/HF/phdata-airline-data-pipeline/src/main/resources/data/airlines.csv",
+  "airportDataPath": "/opt/HF/phdata-airline-data-pipeline/src/main/resources/data/airports.csv",
+  "flightsDataPath": "/opt/HF/phdata-airline-data-pipeline/src/main/resources/data/data.csv",
+  "readDBURL": "jdbc:postgresql://localhost:5432/",
+  "masterDBURL": "jdbc:postgresql://localhost:5432/",
+  "dbUser": "postgres",
+  "dbPass": "****",
+  "database": "phdata"
+}

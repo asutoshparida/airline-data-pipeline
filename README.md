@@ -2,9 +2,9 @@
 This repository will be used for data ingestion & processing of airline-data 
 
 -----
-## High Level Design
-
-
+## Data Files
+    
+    For data files please refer /resources/data folder
 
 -----
 

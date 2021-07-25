@@ -1,10 +1,10 @@
-# phdata-airline-data-pipeline
-This repository will be used for data ingestion & processing of phdata airline-data 
+# airline-data-pipeline
+This repository will be used for data ingestion & processing of airline-data 
 
 -----
 ## High Level Design
 
-![Test Image 3](phdata_airline.jpg)
+
 
 -----
 

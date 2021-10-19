@@ -133,8 +133,8 @@ val firstStageDataFrame = flightsDataFrame.join(airlineDataFrame, flightsDataFra
 val sfOptions: Map[String, String] = Map(
       "sfURL" -> "https://lua28621.us-east-1.snowflakecomputing.com/",
       "sfAccount" -> "lua28621",
-      "sfUser" -> "ASTJVA",
-      "sfPassword" -> "1@Situnani",
+      "sfUser" -> "",
+      "sfPassword" -> "",
       "sfDatabase" -> "USER_ASUTOSH",
       "sfSchema" -> "CURATED",
       "sfRole" -> "SYSADMIN")
@@ -155,8 +155,8 @@ val sfOptions: Map[String, String] = Map(
 val sfOptions: Map[String, String] = Map(
       "sfURL" -> "https://lua28621.us-east-1.snowflakecomputing.com/",
       "sfAccount" -> "lua28621",
-      "sfUser" -> "ASTJVA",
-      "sfPassword" -> "1@Situnani",
+      "sfUser" -> "",
+      "sfPassword" -> "",
       "sfDatabase" -> "USER_ASUTOSH",
       "sfSchema" -> "CURATED",
       "sfRole" -> "SYSADMIN")
